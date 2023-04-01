@@ -1,0 +1,3 @@
+Resposta Ex4:
+
+x1=v1.t;
