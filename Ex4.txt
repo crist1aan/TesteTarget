@@ -1,3 +1,20 @@
 Resposta Ex4:
 
-x1=v1.t;
+Ambos estão na mesma distancia da cidade, pois quando eles se cruzam estão no mesmo ponto, independente da velocidade;
+
+Supondo que A seja o local que de saida do carro e B o do caminhão, ambos vão se cruzar no mesmo ponto que
+no caso seria o C.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
