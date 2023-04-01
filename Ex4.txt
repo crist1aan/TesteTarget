@@ -2,7 +2,7 @@ Resposta Ex4:
 
 Ambos estão na mesma distancia da cidade, pois quando eles se cruzam estão no mesmo ponto, independente da velocidade;
 
-Supondo que A seja o local que de saida do carro e B o do caminhão, ambos vão se cruzar no mesmo ponto que
+Supondo que A seja o local que de saida do carro e B de saida do caminhão, ambos vão se cruzar no mesmo ponto, que
 no caso seria o C.
 
 
